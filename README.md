@@ -1,10 +1,11 @@
-<h1 align="center">👋 Hi there, I'm Arya Uday!</h1>
+<h1 align="center">👋 Hello, I'm Arya Uday!</h1>
 
-<h2 align="center">Passionate Software Developer | MCA Student at Rajagiri College</h2>
+<h2 align="center">Aspiring Software Developer | MCA Student at Rajagiri College</h2>
 
 <p align="center" style="font-size:18px;">
-Welcome to my GitHub profile! I'm a <strong>dedicated and hardworking software developer</strong> with a strong foundation in <strong>programming, web development, and full-stack development</strong>. My journey began with a passion for problem-solving and creating impactful software solutions, which led me to pursue a <strong>Master's in Computer Applications (MCA)</strong> at Rajagiri College.
+Welcome to my GitHub space! 🚀 I'm a passionate software developer with a strong interest in <strong>programming, web development, and full-stack technologies</strong>. I enjoy solving complex problems and building innovative solutions. Currently, I'm pursuing a <strong>Master's in Computer Applications (MCA)</strong> at Rajagiri College, where I'm honing my technical skills and exploring new technologies.
 </p>
+
 
 ---
 
